@@ -2,12 +2,23 @@ body {
 	background-color: rgb(23, 23, 23);
 }
 
-.title {
+.title{
+	font-size: 70px;
+}
+
+.title, div.box {
 	color: aliceblue;
 	font-family: "code-saver", sans-serif;
 	font-weight: 400;
 	font-style: italic;
 }
 
+div.box{
+	background-color: blueviolet;
+	font-size: 30px;
+	width: 590px;
+	margin-left: auto;
+	padding-left: 10px;	
+}
 
 
