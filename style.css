@@ -7,31 +7,19 @@ div.title {
 	font-family: "warbler-banner", sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 80px;
-	text-align: right;
-	padding-right: 20px;
-	letter-spacing: 2px;
-}
+	font-size: 100px;
+	letter-spacing: 5px;
+	text-align: center;
+	}
 
-div.h1{
-	color: aliceblue;
-	font-family: "warbler-banner", sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 25px;
-	letter-spacing: 2px;
-	margin-left: 10px;
+div.container {
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .Black-Flower-Graph{
-	width: 400px;
-}
-
-div.image1{
+	width: 50%;
 	background-color: rgb(255, 255, 255);
-	width: 200px;
-	margin-left: 800px;
-	padding-right: 200px;
 }
 
 div.text1{
